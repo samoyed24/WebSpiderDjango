@@ -1,0 +1,7705 @@
+{
+  "returncode": 200,
+  "returndata": {
+    "datanodes": [
+      {
+        "code": "zb.A020101_reg.110000_sj.2023",
+        "data": {
+          "data": 43760.7,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "43760.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "110000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.110000_sj.2022",
+        "data": {
+          "data": 41540.9,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "41540.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "110000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.110000_sj.2021",
+        "data": {
+          "data": 41045.63,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "41045.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "110000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.110000_sj.2020",
+        "data": {
+          "data": 35943.25,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "35943.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "110000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.110000_sj.2019",
+        "data": {
+          "data": 35445.13,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "35445.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "110000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.110000_sj.2018",
+        "data": {
+          "data": 33106.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "33106.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "110000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.110000_sj.2017",
+        "data": {
+          "data": 29883.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "29883.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "110000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.110000_sj.2016",
+        "data": {
+          "data": 27041.2,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "27041.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "110000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.110000_sj.2015",
+        "data": {
+          "data": 24779.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "24779.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "110000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.110000_sj.2014",
+        "data": {
+          "data": 22926.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "22926.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "110000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.120000_sj.2023",
+        "data": {
+          "data": 16737.3,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "16737.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "120000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.120000_sj.2022",
+        "data": {
+          "data": 16132.2,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "16132.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "120000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.120000_sj.2021",
+        "data": {
+          "data": 15685.05,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "15685.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "120000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.120000_sj.2020",
+        "data": {
+          "data": 14007.99,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "14008.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "120000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.120000_sj.2019",
+        "data": {
+          "data": 14055.46,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "14055.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "120000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.120000_sj.2018",
+        "data": {
+          "data": 13362.9,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "13362.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "120000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.120000_sj.2017",
+        "data": {
+          "data": 12450.6,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "12450.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "120000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.120000_sj.2016",
+        "data": {
+          "data": 11477.2,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "11477.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "120000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.120000_sj.2015",
+        "data": {
+          "data": 10879.5,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "10879.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "120000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.120000_sj.2014",
+        "data": {
+          "data": 10640.6,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "10640.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "120000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.130000_sj.2023",
+        "data": {
+          "data": 43944.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "43944.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "130000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.130000_sj.2022",
+        "data": {
+          "data": 41988.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "41988.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "130000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.130000_sj.2021",
+        "data": {
+          "data": 40397.14,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "40397.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "130000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.130000_sj.2020",
+        "data": {
+          "data": 36013.84,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "36013.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "130000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.130000_sj.2019",
+        "data": {
+          "data": 34978.55,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "34978.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "130000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.130000_sj.2018",
+        "data": {
+          "data": 32494.6,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "32494.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "130000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.130000_sj.2017",
+        "data": {
+          "data": 30640.8,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "30640.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "130000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.130000_sj.2016",
+        "data": {
+          "data": 28474.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "28474.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "130000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.130000_sj.2015",
+        "data": {
+          "data": 26398.4,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "26398.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "130000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.130000_sj.2014",
+        "data": {
+          "data": 25208.9,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "25208.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "130000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.140000_sj.2023",
+        "data": {
+          "data": 25698.2,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "25698.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "140000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.140000_sj.2022",
+        "data": {
+          "data": 25583.9,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "25583.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "140000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.140000_sj.2021",
+        "data": {
+          "data": 22870.43,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "22870.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "140000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.140000_sj.2020",
+        "data": {
+          "data": 17835.58,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "17835.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "140000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.140000_sj.2019",
+        "data": {
+          "data": 16961.61,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "16961.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "140000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.140000_sj.2018",
+        "data": {
+          "data": 15958.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "15958.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "140000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.140000_sj.2017",
+        "data": {
+          "data": 14484.3,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "14484.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "140000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.140000_sj.2016",
+        "data": {
+          "data": 11946.4,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "11946.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "140000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.140000_sj.2015",
+        "data": {
+          "data": 11836.4,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "11836.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "140000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.140000_sj.2014",
+        "data": {
+          "data": 12094.7,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "12094.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "140000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.150000_sj.2023",
+        "data": {
+          "data": 24627.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "24627.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "150000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.150000_sj.2022",
+        "data": {
+          "data": 23388.9,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "23388.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "150000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.150000_sj.2021",
+        "data": {
+          "data": 21166.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "21166.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "150000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.150000_sj.2020",
+        "data": {
+          "data": 17258.04,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "17258.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "150000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.150000_sj.2019",
+        "data": {
+          "data": 17212.53,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "17212.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "150000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.150000_sj.2018",
+        "data": {
+          "data": 16140.8,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "16140.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "150000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.150000_sj.2017",
+        "data": {
+          "data": 14898.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "14898.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "150000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.150000_sj.2016",
+        "data": {
+          "data": 13789.3,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "13789.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "150000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.150000_sj.2015",
+        "data": {
+          "data": 12949.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "12949.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "150000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.150000_sj.2014",
+        "data": {
+          "data": 12158.2,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "12158.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "150000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.210000_sj.2023",
+        "data": {
+          "data": 30209.4,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "30209.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "210000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.210000_sj.2022",
+        "data": {
+          "data": 28826.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "28826.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "210000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.210000_sj.2021",
+        "data": {
+          "data": 27569.49,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "27569.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "210000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.210000_sj.2020",
+        "data": {
+          "data": 25011.38,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "25011.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "210000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.210000_sj.2019",
+        "data": {
+          "data": 24855.26,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "24855.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "210000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.210000_sj.2018",
+        "data": {
+          "data": 23510.5,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "23510.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "210000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.210000_sj.2017",
+        "data": {
+          "data": 21693.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "21693.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "210000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.210000_sj.2016",
+        "data": {
+          "data": 20392.5,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "20392.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "210000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.210000_sj.2015",
+        "data": {
+          "data": 20210.3,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "20210.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "210000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.210000_sj.2014",
+        "data": {
+          "data": 20025.7,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "20025.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "210000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.220000_sj.2023",
+        "data": {
+          "data": 13531.2,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "13531.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "220000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.220000_sj.2022",
+        "data": {
+          "data": 12818.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "12818.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "220000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.220000_sj.2021",
+        "data": {
+          "data": 13163.84,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "13163.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "220000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.220000_sj.2020",
+        "data": {
+          "data": 12255.98,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "12256.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "220000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.220000_sj.2019",
+        "data": {
+          "data": 11726.82,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "11726.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "220000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.220000_sj.2018",
+        "data": {
+          "data": 11253.8,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "11253.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "220000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.220000_sj.2017",
+        "data": {
+          "data": 10922.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "10922.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "220000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.220000_sj.2016",
+        "data": {
+          "data": 10427.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "10427.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "220000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.220000_sj.2015",
+        "data": {
+          "data": 10018.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "10018.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "220000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.220000_sj.2014",
+        "data": {
+          "data": 9966.5,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "9966.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "220000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.230000_sj.2023",
+        "data": {
+          "data": 15883.9,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "15883.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "230000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.230000_sj.2022",
+        "data": {
+          "data": 15831.5,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "15831.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "230000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.230000_sj.2021",
+        "data": {
+          "data": 14858.16,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "14858.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "230000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.230000_sj.2020",
+        "data": {
+          "data": 13633.43,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "13633.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "230000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.230000_sj.2019",
+        "data": {
+          "data": 13544.43,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "13544.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "230000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.230000_sj.2018",
+        "data": {
+          "data": 12846.5,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "12846.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "230000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.230000_sj.2017",
+        "data": {
+          "data": 12313.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "12313.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "230000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.230000_sj.2016",
+        "data": {
+          "data": 11895.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "11895.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "230000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.230000_sj.2015",
+        "data": {
+          "data": 11690.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "11690.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "230000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.230000_sj.2014",
+        "data": {
+          "data": 12170.8,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "12170.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "230000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.310000_sj.2023",
+        "data": {
+          "data": 47218.7,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "47218.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "310000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.310000_sj.2022",
+        "data": {
+          "data": 44809.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "44809.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "310000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.310000_sj.2021",
+        "data": {
+          "data": 43653.17,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "43653.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "310000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.310000_sj.2020",
+        "data": {
+          "data": 38963.3,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "38963.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "310000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.310000_sj.2019",
+        "data": {
+          "data": 37987.55,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "37987.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "310000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.310000_sj.2018",
+        "data": {
+          "data": 36011.8,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "36011.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "310000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.310000_sj.2017",
+        "data": {
+          "data": 32925.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "32925.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "310000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.310000_sj.2016",
+        "data": {
+          "data": 29887.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "29887.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "310000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.310000_sj.2015",
+        "data": {
+          "data": 26887.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "26887.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "310000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.310000_sj.2014",
+        "data": {
+          "data": 25269.8,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "25269.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "310000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.320000_sj.2023",
+        "data": {
+          "data": 128222.2,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "128222.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "320000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.320000_sj.2022",
+        "data": {
+          "data": 122089.3,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "122089.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "320000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.320000_sj.2021",
+        "data": {
+          "data": 117392.36,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "117392.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "320000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.320000_sj.2020",
+        "data": {
+          "data": 102807.68,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "102807.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "320000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.320000_sj.2019",
+        "data": {
+          "data": 98656.82,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "98656.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "320000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.320000_sj.2018",
+        "data": {
+          "data": 93207.6,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "93207.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "320000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.320000_sj.2017",
+        "data": {
+          "data": 85869.8,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "85869.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "320000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.320000_sj.2016",
+        "data": {
+          "data": 77350.9,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "77350.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "320000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.320000_sj.2015",
+        "data": {
+          "data": 71255.9,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "71255.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "320000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.320000_sj.2014",
+        "data": {
+          "data": 64830.5,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "64830.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "320000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.330000_sj.2023",
+        "data": {
+          "data": 82553.2,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "82553.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "330000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.330000_sj.2022",
+        "data": {
+          "data": 78060.6,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "78060.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "330000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.330000_sj.2021",
+        "data": {
+          "data": 74040.78,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "74040.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "330000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.330000_sj.2020",
+        "data": {
+          "data": 64689.06,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "64689.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "330000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.330000_sj.2019",
+        "data": {
+          "data": 62461.99,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "62462.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "330000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.330000_sj.2018",
+        "data": {
+          "data": 58002.8,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "58002.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "330000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.330000_sj.2017",
+        "data": {
+          "data": 52403.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "52403.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "330000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.330000_sj.2016",
+        "data": {
+          "data": 47254.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "47254.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "330000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.330000_sj.2015",
+        "data": {
+          "data": 43507.7,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "43507.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "330000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.330000_sj.2014",
+        "data": {
+          "data": 40023.5,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "40023.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "330000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.340000_sj.2023",
+        "data": {
+          "data": 47050.6,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "47050.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.340000_sj.2022",
+        "data": {
+          "data": 44607.7,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "44607.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.340000_sj.2021",
+        "data": {
+          "data": 42565.17,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "42565.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.340000_sj.2020",
+        "data": {
+          "data": 38061.51,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "38061.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.340000_sj.2019",
+        "data": {
+          "data": 36845.49,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "36845.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.340000_sj.2018",
+        "data": {
+          "data": 34010.9,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "34010.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.340000_sj.2017",
+        "data": {
+          "data": 29676.2,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "29676.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.340000_sj.2016",
+        "data": {
+          "data": 26307.7,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "26307.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.340000_sj.2015",
+        "data": {
+          "data": 23831.2,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "23831.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.340000_sj.2014",
+        "data": {
+          "data": 22519.7,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "22519.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.350000_sj.2023",
+        "data": {
+          "data": 54355.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "54355.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "350000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.350000_sj.2022",
+        "data": {
+          "data": 51765.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "51765.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "350000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.350000_sj.2021",
+        "data": {
+          "data": 49566.05,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "49566.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "350000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.350000_sj.2020",
+        "data": {
+          "data": 43608.55,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "43608.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "350000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.350000_sj.2019",
+        "data": {
+          "data": 42326.58,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "42326.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "350000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.350000_sj.2018",
+        "data": {
+          "data": 38687.8,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "38687.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "350000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.350000_sj.2017",
+        "data": {
+          "data": 33842.4,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "33842.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "350000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.350000_sj.2016",
+        "data": {
+          "data": 29609.4,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "29609.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "350000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.350000_sj.2015",
+        "data": {
+          "data": 26819.5,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "26819.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "350000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.350000_sj.2014",
+        "data": {
+          "data": 24942.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "24942.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "350000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.360000_sj.2023",
+        "data": {
+          "data": 32200.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "32200.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "360000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.360000_sj.2022",
+        "data": {
+          "data": 31213.8,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "31213.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "360000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.360000_sj.2021",
+        "data": {
+          "data": 29827.83,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "29827.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "360000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.360000_sj.2020",
+        "data": {
+          "data": 25781.95,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "25782.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "360000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.360000_sj.2019",
+        "data": {
+          "data": 24667.29,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "24667.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "360000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.360000_sj.2018",
+        "data": {
+          "data": 22716.5,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "22716.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "360000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.360000_sj.2017",
+        "data": {
+          "data": 20210.8,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "20210.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "360000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.360000_sj.2016",
+        "data": {
+          "data": 18388.6,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "18388.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "360000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.360000_sj.2015",
+        "data": {
+          "data": 16780.9,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "16780.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "360000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.360000_sj.2014",
+        "data": {
+          "data": 15667.8,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "15667.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "360000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.370000_sj.2023",
+        "data": {
+          "data": 92068.7,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "92068.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "370000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.370000_sj.2022",
+        "data": {
+          "data": 87576.9,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "87576.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "370000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.370000_sj.2021",
+        "data": {
+          "data": 82875.17,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "82875.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "370000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.370000_sj.2020",
+        "data": {
+          "data": 72798.17,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "72798.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "370000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.370000_sj.2019",
+        "data": {
+          "data": 70540.48,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "70540.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "370000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.370000_sj.2018",
+        "data": {
+          "data": 66648.9,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "66648.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "370000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.370000_sj.2017",
+        "data": {
+          "data": 63012.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "63012.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "370000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.370000_sj.2016",
+        "data": {
+          "data": 58762.5,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "58762.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "370000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.370000_sj.2015",
+        "data": {
+          "data": 55288.8,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "55288.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "370000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.370000_sj.2014",
+        "data": {
+          "data": 50774.8,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "50774.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "370000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.410000_sj.2023",
+        "data": {
+          "data": 59132.4,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "59132.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "410000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.410000_sj.2022",
+        "data": {
+          "data": 58220.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "58220.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "410000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.410000_sj.2021",
+        "data": {
+          "data": 58071.43,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "58071.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "410000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.410000_sj.2020",
+        "data": {
+          "data": 54259.43,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "54259.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "410000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.410000_sj.2019",
+        "data": {
+          "data": 53717.75,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "53717.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "410000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.410000_sj.2018",
+        "data": {
+          "data": 49935.9,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "49935.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "410000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.410000_sj.2017",
+        "data": {
+          "data": 44824.9,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "44824.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "410000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.410000_sj.2016",
+        "data": {
+          "data": 40249.3,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "40249.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "410000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.410000_sj.2015",
+        "data": {
+          "data": 37084.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "37084.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "410000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.410000_sj.2014",
+        "data": {
+          "data": 34574.8,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "34574.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "410000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.420000_sj.2023",
+        "data": {
+          "data": 55803.6,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "55803.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "420000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.420000_sj.2022",
+        "data": {
+          "data": 52741.7,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "52741.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "420000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.420000_sj.2021",
+        "data": {
+          "data": 50091.23,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "50091.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "420000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.420000_sj.2020",
+        "data": {
+          "data": 43004.49,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "43004.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "420000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.420000_sj.2019",
+        "data": {
+          "data": 45428.96,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "45429.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "420000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.420000_sj.2018",
+        "data": {
+          "data": 42022.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "42022.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "420000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.420000_sj.2017",
+        "data": {
+          "data": 37235.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "37235.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "420000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.420000_sj.2016",
+        "data": {
+          "data": 33353.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "33353.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "420000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.420000_sj.2015",
+        "data": {
+          "data": 30344.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "30344.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "420000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.420000_sj.2014",
+        "data": {
+          "data": 28242.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "28242.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "420000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.430000_sj.2023",
+        "data": {
+          "data": 50012.9,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "50012.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "430000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.430000_sj.2022",
+        "data": {
+          "data": 47558.6,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "47558.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "430000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.430000_sj.2021",
+        "data": {
+          "data": 45713.45,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "45713.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "430000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.430000_sj.2020",
+        "data": {
+          "data": 41542.57,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "41542.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "430000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.430000_sj.2019",
+        "data": {
+          "data": 39894.14,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "39894.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "430000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.430000_sj.2018",
+        "data": {
+          "data": 36329.7,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "36329.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "430000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.430000_sj.2017",
+        "data": {
+          "data": 33828.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "33828.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "430000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.430000_sj.2016",
+        "data": {
+          "data": 30853.5,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "30853.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "430000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.430000_sj.2015",
+        "data": {
+          "data": 28538.6,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "28538.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "430000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.430000_sj.2014",
+        "data": {
+          "data": 25881.3,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "25881.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "430000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.440000_sj.2023",
+        "data": {
+          "data": 135673.2,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "135673.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "440000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.440000_sj.2022",
+        "data": {
+          "data": 129513.6,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "129513.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "440000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.440000_sj.2021",
+        "data": {
+          "data": 124719.53,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "124719.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "440000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.440000_sj.2020",
+        "data": {
+          "data": 111151.63,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "111151.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "440000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.440000_sj.2019",
+        "data": {
+          "data": 107986.92,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "107986.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "440000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.440000_sj.2018",
+        "data": {
+          "data": 99945.2,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "99945.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "440000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.440000_sj.2017",
+        "data": {
+          "data": 91648.7,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "91648.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "440000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.440000_sj.2016",
+        "data": {
+          "data": 82163.2,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "82163.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "440000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.440000_sj.2015",
+        "data": {
+          "data": 74732.4,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "74732.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "440000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.440000_sj.2014",
+        "data": {
+          "data": 68173.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "68173.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "440000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.450000_sj.2023",
+        "data": {
+          "data": 27202.4,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "27202.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "450000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.450000_sj.2022",
+        "data": {
+          "data": 26186.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "26186.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "450000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.450000_sj.2021",
+        "data": {
+          "data": 25209.09,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "25209.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "450000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.450000_sj.2020",
+        "data": {
+          "data": 22120.87,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "22120.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "450000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.450000_sj.2019",
+        "data": {
+          "data": 21237.14,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "21237.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "450000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.450000_sj.2018",
+        "data": {
+          "data": 19627.8,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "19627.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "450000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.450000_sj.2017",
+        "data": {
+          "data": 17790.7,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "17790.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "450000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.450000_sj.2016",
+        "data": {
+          "data": 16116.6,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "16116.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "450000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.450000_sj.2015",
+        "data": {
+          "data": 14797.8,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "14797.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "450000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.450000_sj.2014",
+        "data": {
+          "data": 13587.8,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "13587.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "450000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.460000_sj.2023",
+        "data": {
+          "data": 7551.2,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "7551.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "460000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.460000_sj.2022",
+        "data": {
+          "data": 6889.6,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "6889.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "460000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.460000_sj.2021",
+        "data": {
+          "data": 6504.05,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "6504.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "460000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.460000_sj.2020",
+        "data": {
+          "data": 5566.24,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "5566.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "460000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.460000_sj.2019",
+        "data": {
+          "data": 5330.84,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "5330.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "460000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.460000_sj.2018",
+        "data": {
+          "data": 4910.7,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "4910.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "460000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.460000_sj.2017",
+        "data": {
+          "data": 4497.5,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "4497.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "460000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.460000_sj.2016",
+        "data": {
+          "data": 4090.2,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "4090.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "460000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.460000_sj.2015",
+        "data": {
+          "data": 3734.2,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "3734.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "460000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.460000_sj.2014",
+        "data": {
+          "data": 3449.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "3449.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "460000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.500000_sj.2023",
+        "data": {
+          "data": 30145.8,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "30145.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "500000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.500000_sj.2022",
+        "data": {
+          "data": 28576.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "28576.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "500000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.500000_sj.2021",
+        "data": {
+          "data": 28077.28,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "28077.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "500000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.500000_sj.2020",
+        "data": {
+          "data": 25041.43,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "25041.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "500000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.500000_sj.2019",
+        "data": {
+          "data": 23605.77,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "23605.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "500000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.500000_sj.2018",
+        "data": {
+          "data": 21588.8,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "21588.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "500000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.500000_sj.2017",
+        "data": {
+          "data": 20066.3,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "20066.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "500000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.500000_sj.2016",
+        "data": {
+          "data": 18023.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "18023.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "500000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.500000_sj.2015",
+        "data": {
+          "data": 16040.5,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "16040.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "500000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.500000_sj.2014",
+        "data": {
+          "data": 14623.8,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "14623.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "500000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.510000_sj.2023",
+        "data": {
+          "data": 60132.9,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "60132.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "510000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.510000_sj.2022",
+        "data": {
+          "data": 56610.2,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "56610.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "510000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.510000_sj.2021",
+        "data": {
+          "data": 54087.98,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "54088.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "510000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.510000_sj.2020",
+        "data": {
+          "data": 48501.64,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "48501.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "510000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.510000_sj.2019",
+        "data": {
+          "data": 46363.75,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "46363.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "510000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.510000_sj.2018",
+        "data": {
+          "data": 42902.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "42902.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "510000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.510000_sj.2017",
+        "data": {
+          "data": 37905.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "37905.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "510000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.510000_sj.2016",
+        "data": {
+          "data": 33138.5,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "33138.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "510000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.510000_sj.2015",
+        "data": {
+          "data": 30342.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "30342.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "510000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.510000_sj.2014",
+        "data": {
+          "data": 28891.3,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "28891.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "510000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.520000_sj.2023",
+        "data": {
+          "data": 20913.3,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "20913.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "520000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.520000_sj.2022",
+        "data": {
+          "data": 20010.4,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "20010.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "520000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.520000_sj.2021",
+        "data": {
+          "data": 19458.6,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "19458.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "520000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.520000_sj.2020",
+        "data": {
+          "data": 17860.41,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "17860.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "520000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.520000_sj.2019",
+        "data": {
+          "data": 16769.34,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "16769.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "520000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.520000_sj.2018",
+        "data": {
+          "data": 15353.2,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "15353.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "520000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.520000_sj.2017",
+        "data": {
+          "data": 13605.4,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "13605.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "520000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.520000_sj.2016",
+        "data": {
+          "data": 11792.4,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "11792.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "520000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.520000_sj.2015",
+        "data": {
+          "data": 10541.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "10541.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "520000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.520000_sj.2014",
+        "data": {
+          "data": 9173.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "9173.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "520000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.530000_sj.2023",
+        "data": {
+          "data": 30021.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "30021.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "530000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.530000_sj.2022",
+        "data": {
+          "data": 28556.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "28556.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "530000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.530000_sj.2021",
+        "data": {
+          "data": 27161.62,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "27161.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "530000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.530000_sj.2020",
+        "data": {
+          "data": 24555.72,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "24555.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "530000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.530000_sj.2019",
+        "data": {
+          "data": 23223.75,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "23223.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "530000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.530000_sj.2018",
+        "data": {
+          "data": 20880.6,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "20880.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "530000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.530000_sj.2017",
+        "data": {
+          "data": 18486.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "18486.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "530000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.530000_sj.2016",
+        "data": {
+          "data": 16369.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "16369.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "530000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.530000_sj.2015",
+        "data": {
+          "data": 14960.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "14960.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "530000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.530000_sj.2014",
+        "data": {
+          "data": 14041.7,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "14041.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "530000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.540000_sj.2023",
+        "data": {
+          "data": 2392.7,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "2392.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "540000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.540000_sj.2022",
+        "data": {
+          "data": 2150.2,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "2150.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "540000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.540000_sj.2021",
+        "data": {
+          "data": 2080.17,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "2080.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "540000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.540000_sj.2020",
+        "data": {
+          "data": 1902.74,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "1902.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "540000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.540000_sj.2019",
+        "data": {
+          "data": 1697.82,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "1697.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "540000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.540000_sj.2018",
+        "data": {
+          "data": 1548.4,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "1548.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "540000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.540000_sj.2017",
+        "data": {
+          "data": 1349.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "1349.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "540000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.540000_sj.2016",
+        "data": {
+          "data": 1173.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "1173.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "540000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.540000_sj.2015",
+        "data": {
+          "data": 1043.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "1043.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "540000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.540000_sj.2014",
+        "data": {
+          "data": 939.7,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "939.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "540000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.610000_sj.2023",
+        "data": {
+          "data": 33786.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "33786.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "610000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.610000_sj.2022",
+        "data": {
+          "data": 32838.2,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "32838.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "610000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.610000_sj.2021",
+        "data": {
+          "data": 30121.74,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "30121.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "610000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.610000_sj.2020",
+        "data": {
+          "data": 26014.14,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "26014.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "610000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.610000_sj.2019",
+        "data": {
+          "data": 25793.17,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "25793.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "610000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.610000_sj.2018",
+        "data": {
+          "data": 23941.9,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "23941.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "610000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.610000_sj.2017",
+        "data": {
+          "data": 21473.5,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "21473.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "610000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.610000_sj.2016",
+        "data": {
+          "data": 19045.8,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "19045.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "610000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.610000_sj.2015",
+        "data": {
+          "data": 17898.8,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "17898.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "610000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.610000_sj.2014",
+        "data": {
+          "data": 17402.5,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "17402.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "610000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.620000_sj.2023",
+        "data": {
+          "data": 11863.8,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "11863.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "620000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.620000_sj.2022",
+        "data": {
+          "data": 11121.4,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "11121.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "620000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.620000_sj.2021",
+        "data": {
+          "data": 10225.49,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "10225.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "620000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.620000_sj.2020",
+        "data": {
+          "data": 8979.67,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "8979.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "620000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.620000_sj.2019",
+        "data": {
+          "data": 8718.3,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "8718.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "620000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.620000_sj.2018",
+        "data": {
+          "data": 8104.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "8104.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "620000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.620000_sj.2017",
+        "data": {
+          "data": 7336.7,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "7336.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "620000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.620000_sj.2016",
+        "data": {
+          "data": 6907.9,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "6907.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "620000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.620000_sj.2015",
+        "data": {
+          "data": 6556.6,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "6556.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "620000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.620000_sj.2014",
+        "data": {
+          "data": 6518.4,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "6518.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "620000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.630000_sj.2023",
+        "data": {
+          "data": 3799.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "3799.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "630000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.630000_sj.2022",
+        "data": {
+          "data": 3623.3,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "3623.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "630000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.630000_sj.2021",
+        "data": {
+          "data": 3385.07,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "3385.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "630000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.630000_sj.2020",
+        "data": {
+          "data": 3009.81,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "3009.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "630000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.630000_sj.2019",
+        "data": {
+          "data": 2941.07,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "2941.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "630000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.630000_sj.2018",
+        "data": {
+          "data": 2748.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "2748.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "630000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.630000_sj.2017",
+        "data": {
+          "data": 2465.1,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "2465.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "630000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.630000_sj.2016",
+        "data": {
+          "data": 2258.2,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "2258.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "630000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.630000_sj.2015",
+        "data": {
+          "data": 2011.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "2011.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "630000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.630000_sj.2014",
+        "data": {
+          "data": 1847.7,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "1847.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "630000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.640000_sj.2023",
+        "data": {
+          "data": 5315.0,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "5315.0"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "640000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.640000_sj.2022",
+        "data": {
+          "data": 5104.6,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "5104.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "640000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.640000_sj.2021",
+        "data": {
+          "data": 4588.24,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "4588.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "640000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.640000_sj.2020",
+        "data": {
+          "data": 3956.34,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "3956.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "640000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.640000_sj.2019",
+        "data": {
+          "data": 3748.48,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "3748.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "640000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.640000_sj.2018",
+        "data": {
+          "data": 3510.2,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "3510.2"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "640000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.640000_sj.2017",
+        "data": {
+          "data": 3200.3,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "3200.3"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "640000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.640000_sj.2016",
+        "data": {
+          "data": 2781.4,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "2781.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "640000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.640000_sj.2015",
+        "data": {
+          "data": 2579.4,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "2579.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "640000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.640000_sj.2014",
+        "data": {
+          "data": 2473.9,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "2473.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "640000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.650000_sj.2023",
+        "data": {
+          "data": 19125.9,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "19125.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "650000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.650000_sj.2022",
+        "data": {
+          "data": 18042.7,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "18042.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "650000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.650000_sj.2021",
+        "data": {
+          "data": 16311.57,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "16311.6"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "650000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.650000_sj.2020",
+        "data": {
+          "data": 13800.74,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "13800.7"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "650000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.650000_sj.2019",
+        "data": {
+          "data": 13597.11,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "13597.1"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "650000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.650000_sj.2018",
+        "data": {
+          "data": 12809.4,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "12809.4"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "650000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.650000_sj.2017",
+        "data": {
+          "data": 11159.9,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "11159.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "650000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.650000_sj.2016",
+        "data": {
+          "data": 9630.8,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "9630.8"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "650000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.650000_sj.2015",
+        "data": {
+          "data": 9306.9,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "9306.9"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "650000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A020101_reg.650000_sj.2014",
+        "data": {
+          "data": 9264.5,
+          "dotcount": 1,
+          "hasdata": true,
+          "strdata": "9264.5"
+        },
+        "wds": [
+          {
+            "valuecode": "A020101",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "650000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      }
+    ],
+    "freshsort": 0,
+    "hasdatacount": 310,
+    "wdnodes": [
+      {
+        "nodes": [
+          {
+            "cname": "地区生产总值",
+            "code": "A020101",
+            "dotcount": 1,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "地区生产总值",
+            "nodesort": "1",
+            "sortcode": 70,
+            "tag": "",
+            "unit": "亿元"
+          }
+        ],
+        "wdcode": "zb",
+        "wdname": "指标"
+      },
+      {
+        "nodes": [
+          {
+            "cname": "北京市",
+            "code": "110000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "北京市",
+            "nodesort": "1",
+            "sortcode": 8,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "天津市",
+            "code": "120000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "天津市",
+            "nodesort": "1",
+            "sortcode": 9,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "河北省",
+            "code": "130000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "河北省",
+            "nodesort": "1",
+            "sortcode": 10,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "山西省",
+            "code": "140000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "山西省",
+            "nodesort": "1",
+            "sortcode": 11,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "内蒙古自治区",
+            "code": "150000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "内蒙古自治区",
+            "nodesort": "1",
+            "sortcode": 12,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "辽宁省",
+            "code": "210000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "辽宁省",
+            "nodesort": "1",
+            "sortcode": 19,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "吉林省",
+            "code": "220000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "吉林省",
+            "nodesort": "1",
+            "sortcode": 20,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "黑龙江省",
+            "code": "230000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "黑龙江省",
+            "nodesort": "1",
+            "sortcode": 21,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "上海市",
+            "code": "310000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "上海市",
+            "nodesort": "1",
+            "sortcode": 22,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "江苏省",
+            "code": "320000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "江苏省",
+            "nodesort": "1",
+            "sortcode": 23,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "浙江省",
+            "code": "330000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "浙江省",
+            "nodesort": "1",
+            "sortcode": 24,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "安徽省",
+            "code": "340000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "安徽省",
+            "nodesort": "1",
+            "sortcode": 25,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "福建省",
+            "code": "350000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "福建省",
+            "nodesort": "1",
+            "sortcode": 26,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "江西省",
+            "code": "360000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "江西省",
+            "nodesort": "1",
+            "sortcode": 27,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "山东省",
+            "code": "370000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "山东省",
+            "nodesort": "1",
+            "sortcode": 28,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "河南省",
+            "code": "410000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "河南省",
+            "nodesort": "1",
+            "sortcode": 29,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "湖北省",
+            "code": "420000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "湖北省",
+            "nodesort": "1",
+            "sortcode": 30,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "湖南省",
+            "code": "430000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "湖南省",
+            "nodesort": "1",
+            "sortcode": 31,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "广东省",
+            "code": "440000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "广东省",
+            "nodesort": "1",
+            "sortcode": 32,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "广西壮族自治区",
+            "code": "450000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "广西壮族自治区",
+            "nodesort": "1",
+            "sortcode": 33,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "海南省",
+            "code": "460000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "海南省",
+            "nodesort": "1",
+            "sortcode": 34,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "重庆市",
+            "code": "500000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "重庆市",
+            "nodesort": "1",
+            "sortcode": 35,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "四川省",
+            "code": "510000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "四川省",
+            "nodesort": "1",
+            "sortcode": 36,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "贵州省",
+            "code": "520000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "贵州省",
+            "nodesort": "1",
+            "sortcode": 37,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "云南省",
+            "code": "530000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "云南省",
+            "nodesort": "1",
+            "sortcode": 38,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "西藏自治区",
+            "code": "540000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "西藏自治区",
+            "nodesort": "1",
+            "sortcode": 39,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "陕西省",
+            "code": "610000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "陕西省",
+            "nodesort": "1",
+            "sortcode": 40,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "甘肃省",
+            "code": "620000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "甘肃省",
+            "nodesort": "1",
+            "sortcode": 41,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "青海省",
+            "code": "630000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "青海省",
+            "nodesort": "1",
+            "sortcode": 42,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "宁夏回族自治区",
+            "code": "640000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "宁夏回族自治区",
+            "nodesort": "1",
+            "sortcode": 43,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "新疆维吾尔自治区",
+            "code": "650000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "新疆维吾尔自治区",
+            "nodesort": "1",
+            "sortcode": 44,
+            "tag": "",
+            "unit": ""
+          }
+        ],
+        "wdcode": "reg",
+        "wdname": "地区"
+      },
+      {
+        "nodes": [
+          {
+            "cname": "2023年",
+            "code": "2023",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "2023年",
+            "nodesort": "1",
+            "sortcode": 3,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "2022年",
+            "code": "2022",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "2022年",
+            "nodesort": "1",
+            "sortcode": 4,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "2021年",
+            "code": "2021",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "2021年",
+            "nodesort": "1",
+            "sortcode": 5,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "2020年",
+            "code": "2020",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "2020年",
+            "nodesort": "1",
+            "sortcode": 6,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "2019年",
+            "code": "2019",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "2019年",
+            "nodesort": "1",
+            "sortcode": 7,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "2018年",
+            "code": "2018",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "2018年",
+            "nodesort": "1",
+            "sortcode": 8,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "2017年",
+            "code": "2017",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "2017年",
+            "nodesort": "1",
+            "sortcode": 9,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "2016年",
+            "code": "2016",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "2016年",
+            "nodesort": "1",
+            "sortcode": 10,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "2015年",
+            "code": "2015",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "2015年",
+            "nodesort": "1",
+            "sortcode": 11,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "2014年",
+            "code": "2014",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "2014年",
+            "nodesort": "1",
+            "sortcode": 12,
+            "tag": "",
+            "unit": ""
+          }
+        ],
+        "wdcode": "sj",
+        "wdname": "时间"
+      }
+    ]
+  }
+}
