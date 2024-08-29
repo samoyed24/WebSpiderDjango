@@ -20,5 +20,5 @@ from gdpview import views
 
 urlpatterns = [
     path("admin/", admin.site.urls),
-    path("gdp/", include('gdpview.urls'))
+    path("", include('gdpview.urls'))
 ]

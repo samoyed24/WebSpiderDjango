@@ -1,4 +1,5 @@
 from pyecharts.charts import Map, Timeline, Pie, Grid, Bar, Line
+from pyecharts.faker import Faker
 from pyecharts.globals import ThemeType
 from pyecharts.options import LabelOpts, TitleOpts, VisualMapOpts, GridOpts, InitOpts, LegendOpts, MarkPointOpts, \
     MarkPointItem, TooltipOpts, AxisOpts, AxisLineOpts, SplitLineOpts, AxisTickOpts
@@ -27,27 +28,27 @@ def fetch_data():
             pos_top="55%"
         ),
         title_opts=TitleOpts(
-            title="2014~2024年GDP、国民总收入变化情况",
+            title="2014~2023年GDP、国民总收入变化情况",
             subtitle="数据来自国家统计局"
         )
     )
     line.add_xaxis(xaxis_data=x_data)  # 添加 x 轴数据
     line.add_yaxis(
-        series_name="国内生产总值",  # 设置系列的名称
+        series_name="国内生产总值（亿元）",  # 设置系列的名称
         y_axis=y_data,  # 添加 y 轴数据
         symbol="emptyCircle",  # 设置数据点的样式为空心圆
         is_symbol_show=True,
         label_opts=LabelOpts(is_show=False),
         is_smooth=True,
     ).add_yaxis(
-        series_name="人均国内生产总值",
+        series_name="人均国内生产总值（元）",
         y_axis=y2_data,
         symbol="emptyCircle",
         is_symbol_show=True,
         label_opts=LabelOpts(is_show=False),
         is_smooth=True
     ).add_yaxis(
-        series_name="国民总收入",
+        series_name="国民总收入（亿元）",
         y_axis=y3_data,
         symbol="emptyCircle",
         is_symbol_show=True,
@@ -79,21 +80,35 @@ def fetch_data():
 
         data_dict = [(item.region_name, item.value) for item in province_data]
 
-        bar = Bar(
-            init_opts=InitOpts(
-                width="200px",
-                height="100px"
-            ),
-        )
-        bar.add_xaxis([item.region_name for item in province_data])
-        bar.add_yaxis("GDP", [item.value for item in province_data])
-        bar.set_global_opts(
+        bar = Bar()
+        bar.add_xaxis(
+            [item.region_name for item in province_data]
+        ).add_yaxis(
+            "GDP",
+            [item.value for item in province_data],
+            label_opts=LabelOpts(
+                is_show=True,
+                formatter="{b}",
+                position="top",
+                rotate='-15'
+            )
+        ).set_global_opts(
             legend_opts=LegendOpts(
                 is_show=False
             ),
             visualmap_opts=VisualMapOpts(
                 is_show=False
-            )
+            ),
+            xaxis_opts=AxisOpts(
+                # axislabel_opts=LabelOpts(
+                #     interval=0,
+                #     rotate="-30",
+                #     position="top"
+                # ),
+                axislabel_opts=LabelOpts(
+                    is_show=False
+                )
+            ),
         )
 
         pie = Pie(
@@ -131,7 +146,7 @@ def fetch_data():
             legend_opts=LegendOpts(is_show=False),
             title_opts=TitleOpts(
                 title=f"全国{year}年各地区GDP",
-                subtitle="不含港、澳、台数据",
+                subtitle="不含港、澳、台数据，单位：亿元",
                 pos_left="40%"
             ),
             visualmap_opts=VisualMapOpts(
@@ -140,10 +155,9 @@ def fetch_data():
                 is_show=False
             ),
         )
-
         grid = Grid(init_opts=InitOpts(width='100%', height='100%'))
         grid.add(line, grid_opts=GridOpts(pos_left="7%", pos_right="70%", pos_top="10%", pos_bottom="50%"))
-        grid.add(bar, grid_opts=GridOpts(pos_left="10%", pos_bottom='10%', pos_top="70%"))
+        grid.add(bar, grid_opts=GridOpts(pos_left="10%", pos_bottom='15%', pos_top="65%"))
         grid.add(map_chart, grid_opts=GridOpts(pos_left="30%", pos_right="30%", pos_top="10%", pos_bottom="80%"))
         grid.add(pie, grid_opts=GridOpts(pos_right="0"))
         timeline.add(grid, time_point=str(year))

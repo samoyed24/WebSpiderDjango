@@ -1,5 +1,6 @@
 from django.http import JsonResponse, HttpResponse
 from django.shortcuts import render
+from django.views.decorators.csrf import csrf_exempt
 from django.views.decorators.http import require_http_methods
 from gdpview.spider import GdpSpider
 from gdpview.models import *
@@ -7,6 +8,7 @@ from gdpview.charts import mapCharts
 
 
 @require_http_methods(['POST'])
+@csrf_exempt
 def update_data(request):
     data = GdpSpider.get_latest_data()
     for _ in data:
@@ -32,4 +34,4 @@ def get_gdp_data(request):
 
 
 def index(request):
-    return render(request, 'index.html')
+    return render(request, 'admin/index.html')
