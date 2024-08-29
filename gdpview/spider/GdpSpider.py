@@ -32,5 +32,28 @@ def get_latest_data() -> List[Dict]:
     return result_data
 
 
+def getNationalData() -> List[Dict]:
+    resp = requests.get(
+        'https://data.stats.gov.cn/easyquery.htm?m=QueryData&dbcode=hgnd&rowcode=zb&colcode=sj&wds=%5B%5D&dfwds=%5B%7B%22wdcode%22%3A%22zb%22%2C%22valuecode%22%3A%22A0201%22%7D%5D&k1=1724861584529&h=1')
+    data = resp.json()
+    name_code_mapping = {
+        "A020102": "国内生产总值",
+        "A020101": "国民总收入",
+        "A020106": "人均国内生产总值"
+    }
+    result_data = []
+    for _ in data['returndata']['datanodes']:
+        if _['wds'][0]['valuecode'] in name_code_mapping.keys():
+            __ = {
+                "year": _['wds'][1]['valuecode'],
+                "value": _['data']['data'],
+                "type": name_code_mapping[_['wds'][0]['valuecode']]
+            }
+            result_data.append(__)
+    print(result_data)
+    return result_data
+
+
 if __name__ == '__main__':
-    get_latest_data()
+    # get_latest_data()
+    getNationalData()

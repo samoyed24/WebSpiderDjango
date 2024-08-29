@@ -1002,7 +1002,7 @@ def get_year_chart(year: str):
             series_name="",
             data_pair=map_data,
             zoom=1,
-            center=[119.5, 34.5],
+            center=[19.5, 34.5],
             is_map_symbol_show=False,
             itemstyle_opts={
                 "normal": {"areaColor": "#323c48", "borderColor": "#404a59"},

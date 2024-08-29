@@ -6,3 +6,9 @@ class GDPdata(models.Model):
     year = models.TextField(null=False, blank=False)
     value = models.FloatField(null=True, blank=True)
     type = models.TextField(null=False, blank=False)
+
+
+class NationalData(models.Model):
+    type = models.TextField(null=False, blank=False)
+    value = models.FloatField(null=True, blank=True)
+    year = models.TextField(null=False, blank=False)
