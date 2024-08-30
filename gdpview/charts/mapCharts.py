@@ -84,7 +84,7 @@ def fetch_data():
         bar.add_xaxis(
             [item.region_name for item in province_data]
         ).add_yaxis(
-            "GDP",
+            "地区生产总值",
             [item.value for item in province_data],
             label_opts=LabelOpts(
                 is_show=True,
@@ -118,7 +118,7 @@ def fetch_data():
             )
         )
         pie.add(
-            series_name=f"{year}年GDP分布",
+            series_name=f"{year}年国内各省地区生产总值分布",
             data_pair=data_dict,
             label_opts=LabelOpts(is_show=True),
             center=['85%', '25%'],
@@ -135,7 +135,7 @@ def fetch_data():
             )
         )
         map_chart.add(
-            series_name="GDP",
+            series_name="地区生产总值",
             data_pair=data_dict,
             label_opts=LabelOpts(is_show=False),
             is_map_symbol_show=False,
@@ -145,7 +145,7 @@ def fetch_data():
         ).set_global_opts(
             legend_opts=LegendOpts(is_show=False),
             title_opts=TitleOpts(
-                title=f"全国{year}年各地区GDP",
+                title=f"全国{year}年各省地区生产总值",
                 subtitle="不含港、澳、台数据，单位：亿元",
                 pos_left="40%"
             ),

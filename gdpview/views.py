@@ -31,7 +31,3 @@ def update_data(request):
 def get_gdp_data(request):
     map_embed = mapCharts.fetch_data()
     return HttpResponse(map_embed)
-
-
-def index(request):
-    return render(request, 'admin/index.html')
